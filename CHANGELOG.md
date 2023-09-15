@@ -1,3 +1,6 @@
+# 1.4.6
+- get ssh2 directly from npm
+
 # 1.4.4
 
 - wait loading for command.
